@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAAS,WAAW,MAAc,EAAE;IAChC,OAAO,SAAS;AACpB;AAEA,QAAQ,GAAG,CAAC","sources":["src/index.ts"],"sourcesContent":["function multiByTwo(number:unknown) {\r\n    return number * 2\r\n}\r\n\r\nconsole.log('hello')"],"names":[],"version":3,"file":"index.377278e2.js.map","sourceRoot":"/__parcel_source_root/"}
